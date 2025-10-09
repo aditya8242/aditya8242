@@ -1,10 +1,9 @@
-<div style="text-align: center;">
-  <img width="100%" align="center" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" alt="Gojo Satoru" />
+<div align="center">
+  <img width="100%" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" alt="Gojo Satoru" />
 </div>
 
 <h1 align="center">Hello</h1>
 
-<!-- Responsive Cards Container -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img style="max-width: 100%; flex: 1 1 300px;" src="https://github-readme-stats-three-lovat-57.vercel.app/api?username=aditya8242&cache_seconds=14400&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats Card" />
   
