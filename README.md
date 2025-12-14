@@ -2,8 +2,6 @@
   <img width="100%" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" alt="Gojo Satoru" />
 </div>
 
-<h1 align="center">Hello</h1>
-
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
@@ -19,6 +17,9 @@
 
 - 📄 Know about my experiences [https://flowcv.com/resume/2iou28aiel4s](https://flowcv.com/resume/2iou28aiel4s)
 
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/adityachavan24/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -30,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya8242&show_icons=true&locale=en" alt="aditya8242" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya8242&" alt="aditya8242" /></p>
+![](https://nirzak-streak-stats.vercel.app/?user=aditya8242&theme=dracula&hide_border=false)<br/>
