@@ -15,9 +15,9 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aditya8242&theme=dark&hide_border=false&include_all_commits=false&count_private=true&cache_seconds=14400)<br/>
+![](https://github-readme-stats-roan-one-14.vercel.app/api?username=aditya8242&count_private=true&show_icons=true&theme=transparent&rank_icon=github&cache_seconds=14400)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aditya8242&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya8242&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=swig&cache_seconds=14400)
+![](https://github-readme-stats-roan-one-14.vercel.app/api/top-langs/?username=aditya8242&theme=transparent&layout=compact&hide=swig&cache_seconds=14400)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
